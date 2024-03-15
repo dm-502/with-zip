@@ -1,0 +1,64 @@
+#pseudocode for reaction speed game
+
+import tools
+
+open serial connection
+
+
+create list of all speeds
+
+set run counter to zero
+
+create a separate file to store data
+
+run code 5 times 
+    
+    microbit input -> into a string
+
+    get rid of any extra symbols
+    
+    if microbit input is new and your speed is greater than zero 0:
+        
+        print your speed
+
+       
+        write speed to your file
+
+        move onto next run
+        repeat process
+
+close serial connection
+
+close file connection
+
+print all your speeds
+
+
+calculate average speed
+
+
+plot all speeds onto a graph (runs on x-axis and speeds on y-axis)
+
+create a function line for your average speed
+create a function line for the human average speed
+create a function line for an f1 drivers speed
+create a function line for a cheetahs speed
+create a function line for a frogs speed
+(these used simply for comparison)
+
+name the graph 'Speed for 5 runs'
+set x-axis to 'runs'
+set y-axis to 'speed'
+plot all speed values
+plot the legend
+
+if graph has a positive correlation:
+    print we predict that your reaction speed will get slower in future
+else if graph has a negative correlation:
+    print we predict that your reaction speed will get faster in future
+else if graph has a slope of 0
+    print we predict no change in speed in future
+
+show graph
+
+

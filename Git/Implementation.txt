@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Implementation</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #FF5733;
+        color: #333;
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, p {
+        margin: 0 0 20px;
+    }
+    nav {
+        background-color: #333;
+        padding: 10px 0;
+    }
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 16px;
+    }
+</style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="SPEEDsitecode.html">Back</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <h1>Implementation</h1>
+        <p>The game development process was conducted using Thonny with Python, providing essential debugging tools and syntax highlighting. Initial focus was on implementing player inputs at the start of the game, with provisions for command-line inputs to facilitate testing. 
+<br><br>
+
+Significant portions of the code were developed from scratch, drawing on my experience with Python programming. For unfamiliar concepts or functionalities, I researched for documentation, articles, and online forums for guidance and inspiration. The use of AI was also present. If used as a tool, it can prove helpful. Personally, the elaboration of syntax errors impressed me. Often the assistance provided in Thonny was vague so implementing AI was advantageous.
+
+<br><br>
+A notable challenge arose during the implementation phase when designing the CSV data recording and statistical analysis features. To address this, I implemented string manipulation techniques to organise and analyse reaction time data effectively. 
+
+<br><br><br><br></p>
+    </div>
+</body>
+</html>

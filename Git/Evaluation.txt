@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Evaluation</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #FF5733;
+        color: #333;
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, p {
+        margin: 0 0 20px;
+    }
+    nav {
+        background-color: #333;
+        padding: 10px 0;
+    }
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 16px;
+    }
+</style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="SPEEDsitecode.html">Back</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <h1>Evaluation</h1>
+        <p><br><br>
+Reflecting on the project, I acknowledge areas for improvement in the initial design phase, particularly in comprehensive planning and consideration of all project requirements. Despite initial shortcomings, the project successfully achieved its objectives through iterative development and problem-solving. 
+<br><br>
+
+Future iterations of the project could benefit from enhanced planning and design processes to address overlooked requirements and ensure a more robust game experience. I believe a more complex game could be developed, as long as determination and commitment is present. Additionally, incorporating graphical elements and user-friendly interfaces could improve accessibility and engagement for players. 
+
+<br><br>
+
+Overall, the project represents a valuable learning experience, highlighting the importance of thorough planning, adaptability in problem-solving, and continuous improvement in software development practices. Through iterative refinement and incorporation of user feedback, future iterations of the project have the potential to deliver even more engaging and effective reaction speed challenges for players.</p>
+        </p>
+    </div>
+</body>
+</html>

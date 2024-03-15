@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meeting the brief</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #FF5733;
+        color: #333;
+    }
+    .container {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, p {
+        margin: 0 0 20px;
+    }
+    nav {
+        background-color: #333;
+        padding: 10px 0;
+    }
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 16px;
+    }
+</style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="SPEEDsitecode.html">Back</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <h1>Meeting the brief</h1>
+        <p><b>WHAT am I doing for this project?</b><br><br>
+For my Leaving Cert Computer Science project I have decided to create a reaction speed game. Since the overall topic is ‘Wellbeing’, I focused on improving our concentration levels. I believe this is a vital area in terms of our health. Improving concentration levels can prove to be beneficial in many ways... such as exam preparation and studying. That is why my main aim is to create a practical technological solution that will solve problems relating to poor concentration levels.
+<br><br><br>
+<b>WHAT am I making?</b><br><br>
+One way to test the user's current concentration level is to see how fast their reaction speed is. This will show their current focus level. That is why I have developed a reaction speed game. My reaction speed game will test the reaction speed of the user. To combat outliers the game runs a handful of times and regards your average score. This correlates with the user’s simultaneous concentration level. Therefore we can not only test what your concentration level is… but also enhance it by decreasing your reaction time.
+<br><br><br>
+
+<b>HOW am I doing it?</b><br><br>
+A Microbit code made on MakeCode.org is downloaded to the Microbit and connected to a python program (via serial connection). In this case, Thonny. My code will allow the Microbit inputs to be performed on and will inevitably create a few outputs such as your average speed, predictions and graphs. The inputs are gathered on the physical Microbit of course. The code’s outputs can be found in a CSV file after running the game. A website was created to display my project and outline its features.
+<br><br><br>
+
+<b>HOW will it work?</b><br><br>
+The user will play the game on the Microbit 5 times and the average reaction speed is calculated. The user will also be able to see my estimated predictions for their reaction speed if only given their current concentration/mood level, and vice versa. 
+<br><br><br>
+
+<b>HOW can this benefit someone?</b><br><br>
+If a person is struggling with poor concentration and/or can’t find a way of improving it… they can use this project to their advantage. Playing the game will not only tell you what your concentration level looks like but it will also improve your concentration level if you decide to play the game a couple of times. Striving for better results will provide motivation and therefore increase the user’s concentration level.
+<br><br><br>
+
+<b>WHY am I doing this?</b><br><br>
+I decided to create a solution to poor concentration levels as I myself struggle with this sometimes. As a sixth year student, it is not easy to constantly have motivation to study. I feel that a poor level of concentration is the cause of wasteful studying. This relates to the term ‘work smarter not harder’. To me, hours of study without any concentration intensity is a pure waste of time. So, I set myself a mission to find a simple solution to this complicated problem. That is how I ended up creating a reaction speed game.
+<br><br><br><br></p>
+    </div>
+</body>
+</html>
