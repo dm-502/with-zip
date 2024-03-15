@@ -1,8 +1,4 @@
-# Leaving Cert Computer Science Coursework Project
-
-My Leaving Cert Computer Science Project 2024
-
-The project brief can be viewed [here](<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -214,4 +210,3 @@ Overall, the project represents a valuable learning experience, highlighting the
     </script>
 </body>
 </html>
-)
